@@ -3,8 +3,8 @@
 
 ### About me:
 
-- I'm currently studying **Python e Data Science** :chart_with_upwards_trend:
-- I'm starting to dive deeper into Machine Learning world :brain:
+- I'm currently studying **Python and Data Science** :chart_with_upwards_trend:
+- I'm diving deeper into Machine Learning world :brain:
 - My main hobbies are watching documental, camping and play with my pets. :standing_man:
 
 ### 2022:
