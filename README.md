@@ -3,15 +3,15 @@
 
 ### About me:
 
-- I'm currently studying **Python and Data Science** :chart_with_upwards_trend:
-- I'm diving deeper into Machine Learning world :brain:
+- I'm currently studying **Python and Data Engineering** :chart_with_upwards_trend:
+- I'm diving deeper into Big Data world :brain:
 - My main hobbies are watching documental, camping and play with my pets. :standing_man:
 
-### 2022:
+### 2023:
 
-- Looking forward to have my first job in data field.
+- Looking forward to have my first job as a data engineer.
 - Willing to collaborate to Open Source Projects.
-- I'll be graduating :)
+- Continue to learn and to develop myself, both as a better human and a better professional! :)
 
 ## Contact
 
