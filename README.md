@@ -3,20 +3,14 @@
 
 ### About me:
 
-- I'm currently studying **Data Warehouse and Data Lakes** :chart_with_upwards_trend:
 - I'm diving deeper into Big Data world :brain:
 - My main hobbies are watching documental, camping and play with my pets. :standing_man:
-
-### 2023:
-
-- Looking forward to have my first job as a data engineer.
 - Willing to collaborate to Open Source Projects.
 - Continue to learn and to develop myself, both as a better human and a better professional! :)
 
 ## Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-brandao9506///)](https://www.linkedin.com/in/vitor-brandao9506/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/vitorlima.brandao)](https://www.facebook.com/vitorlima.brandao)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:limavibrandao@gmail.com)
 
 
@@ -36,15 +30,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
-![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github)
-
-
-
-### Some Knowledge: 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernets](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
