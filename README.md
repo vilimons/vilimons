@@ -3,7 +3,7 @@
 
 ### About me:
 
-- I'm diving deeper into Big Data world :brain:
+- I'm diving deeper into Quality Engineering and Quality Process :brain:
 - My main hobbies are watching documental, camping and play with my pets. :standing_man:
 - Willing to collaborate to Open Source Projects.
 - Continue to learn and to develop myself, both as a better human and a better professional! :)
